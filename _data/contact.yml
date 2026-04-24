@@ -3,6 +3,10 @@
 - type: github
   icon: "fab fa-github"
 
+- type: rednote
+  icon: "fas fa-book"
+  url: "https://xhslink.com/m/4oNlRKQMJ2m"
+  
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
