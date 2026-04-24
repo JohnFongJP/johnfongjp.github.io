@@ -28,8 +28,8 @@ url: "https://fongnet.com"
 github:
   username: github_username # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+RedNote:
+  username: 4oNlRKQMJ2m # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://fongnet.com/about/ # AboutMe
-    - https://twitter.com/username # change to your Twitter homepage
+    - https://xhslink.com/m/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
